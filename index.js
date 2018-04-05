@@ -2,7 +2,6 @@ var animal = 'dog'
 
 function myAnimal() {
   return animal
-}
 
 function yourAnimal() {
   // How can we make sure that this function
